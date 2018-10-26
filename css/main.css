@@ -22,6 +22,9 @@ h1, h2 {
     text-align: center;
 }
 
+a {
+    text-decoration: none;
+}
 
 
 
@@ -46,6 +49,7 @@ h1, h2 {
     font-weight: 700;
     color: white;
     text-transform: uppercase;
+    text-decoration: none;
 }
 
 .menu__icon {
@@ -147,8 +151,12 @@ h1, h2 {
     margin-bottom: 65px;
 }
 
+
+
 .offer__btn {
+    display: block;
     margin: 0 auto;
+    text-decoration: none;
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     border-radius: 5px;
@@ -157,9 +165,18 @@ h1, h2 {
     background: #f3a51d;
     border: 0;
     font-weight: 700;
-    font-size: 30px;
+    font-size: 30px;    
+    text-align: center;
+    color: white;
+}
+a.offer__btn {
+    text-decoration: none;
 }
 
+a.offer__btn:hover {
+    text-decoration: none;
+    color: white;
+}
 
 
 .title {
@@ -282,6 +299,7 @@ h1, h2 {
     display: block;
     margin: 0 auto;
     margin-top: 15px;
+    cursor: pointer;
 }
 
 
