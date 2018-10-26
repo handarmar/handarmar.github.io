@@ -1,4 +1,4 @@
-if (trim($_POST['mfbPhone']) == '') {
+if (trim($_POST['Phone']) == '') {
 echo 'false';
 }
 else {
