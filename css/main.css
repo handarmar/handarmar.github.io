@@ -376,7 +376,7 @@ a.offer__btn:hover {
         font-size: 18px;
     }
     .offer__btn {
-        width: 100%;
+        width: 70%;
     }
     .menu__links {
         flex-direction: column;
