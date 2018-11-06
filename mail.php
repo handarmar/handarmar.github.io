@@ -9,7 +9,7 @@ $phone = trim($_POST["phone"]);
 $text = trim($_POST["text"]); 
 $mail = trim($_POST["email"]); 
 $usluga = trim($_POST["usluga"]);
-$message = "Имя: $name $surname \nТелефон: $phone \nПочта: $mail \nУслуга: $usluga"; 
+$message = "Имя: $name $surname \nТелефон: $phone \nПочта: $mail \nУслуга: $usluga Текст: $text"; 
 $message2 = "Спасибо за Вашу заявку, в ближайшее время с Вами свяжется наш менеджер, с ув. команда SkyMedia"; 
 
 $pagetitle = "Новая заявка с сайта \"$sitename\" от \"$name $surname\""; 
