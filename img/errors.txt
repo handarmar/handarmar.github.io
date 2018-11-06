@@ -1,4 +1,0 @@
-[2018-10-25 15:27:05] layer "услуга1.jpg": Duplicate path: услуга1.jpg
-[2018-10-25 15:27:05] layer "услуга2.jpg": Duplicate path: услуга2.jpg
-[2018-10-25 15:27:05] layer "услуга3.jpg": Duplicate path: услуга3.jpg
-[2018-10-25 15:27:05] layer "услуга4.jpg": Duplicate path: услуга4.jpg
