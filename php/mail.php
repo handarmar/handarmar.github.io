@@ -1,7 +1,7 @@
 <?php
 
 $recepient = "handarmar@gmail.com"; 
-$sitename = "testyourhpusecom.000webhostapp.com"; 
+$sitename = "handarmar.github.io"; 
 
 $name = trim($_POST["name"]);
 $surname = trim($_POST["surname"]); 

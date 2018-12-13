@@ -6,7 +6,7 @@ $(document).ready(function() {
 			url: "php/mail.php",
 			data: $(this).serialize()
 		}).done(function() {
-			$(this).find("input").val("");			window.location.replace('http://skymedia.tech/good');
+			$(this).find("input").val("");			//window.location.replace('http://skymedia.tech/good');
 			$("#form").trigger("reset");
 		});
 		return false;
